@@ -1,0 +1,57 @@
+[33mcommit e946ec26cfb1816470f2aad20664afb8a678761c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 10:03:51 2021 +0300
+
+    toddvfv
+    
+    to delete
+
+[33mcommit 7f7d3be5f7801609d47dd396c93cf6f9130ed12e[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: dca4842 31edddd
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:52:05 2021 +0300
+
+    fixed diffs
+
+[33mcommit dca4842b97f6050d4d200e1759c5fc0d9f831a31[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:49:29 2021 +0300
+
+    added letters
+
+[33mcommit 31edddda7a60721fb06d34c66f69f5f6df3a77e0[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:48:05 2021 +0300
+
+    deleted letters
+
+[33mcommit 22ce3a27a8fe486cfe7c6bbe81b584dbb9200c18[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:44:25 2021 +0300
+
+    patronymic commit
+
+[33mcommit 750eef09124af2abad445d48f493a26a410003f4[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:39:52 2021 +0300
+
+    second commit
+
+[33mcommit 67d98040993b00736bdbec6a4f2c37d7d9841f4c[m
+Merge: d0c0f8a 42e22c5
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:26:25 2021 +0300
+
+    Merge branch 'master' of https://github.com/VladNuriev/Laba1
+
+[33mcommit d0c0f8af8f554cb9cab5eb57edcdf1f3eed54481[m
+Author: VladNuriev <vlad.nuriev.12@mail.ru>
+Date:   Fri Apr 9 09:22:02 2021 +0300
+
+    first commit
+
+[33mcommit 42e22c5762f8b882c0f42b65ac15857ce53a935b[m
+Author: VladNuriev <82199938+VladNuriev@users.noreply.github.com>
+Date:   Fri Apr 9 09:10:37 2021 +0300
+
+    Initial commit
